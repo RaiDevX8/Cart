@@ -1,4 +1,4 @@
 tech used :
-         vite js
+         vite js +
           tailwind
         
